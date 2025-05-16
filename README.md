@@ -1,3 +1,5 @@
+
+
 AI-Powered Defect Detection in Low-Light Environments
 Introduction
 This project develops an AI-based application for detecting defects in various products (e.g., cables, bottles, screws, transistors, zippers) under low-light conditions. By combining a Generative Adversarial Network (GAN) for image enhancement and YOLOv11n for object detection, the system improves the visibility of low-light images and accurately identifies defects. The application is built with Streamlit for an interactive user interface, enabling users to upload images, process them, and view defect detection results.
@@ -133,5 +135,7 @@ Optimizing GAN training for faster convergence.
 Expanding YOLO model support for additional product types.
 Adding real-time video processing capabilities.
 Deploying the application on a cloud platform for scalability.
+
+## `RUN APP: streamlit run app.py`
 
 For questions or contributions, please contact Nguyen Le Minh Tu (@2025 Copyright).
